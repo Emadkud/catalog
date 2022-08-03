@@ -1,0 +1,28 @@
+.title-movies{
+    text-align: center;
+    font-size: 50px;
+}
+
+.affiche{
+    width: 250px;
+}
+
+.list-movies{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+}
+
+.link{
+    color: rgb(34, 27, 27);
+    text-decoration: none;
+    background-color: rgb(10, 104, 135);
+}
